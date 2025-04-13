@@ -8,7 +8,7 @@ title: Konstytucja Francuska
 
 ---
 
-- [Konstytucja Obecna VS Współczesna](KonObVSWspo)
+- [Konstytucja Obecna VS Współczesna](index)
 - [Konstytucja 3 maja](kostytucja3maja)
 - [Konstytucja Stanów Zjednoczonych](konstytucjaAmerykanska)
 - [Konstytucja Francji](konstytucjaFrancuska)

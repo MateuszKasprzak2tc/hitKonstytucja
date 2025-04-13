@@ -8,7 +8,7 @@ title: Konstytucja Obecna Kontra Współczesna
 
 ---
 
-- [Konstytucja Obecna VS Współczesna](KonObVSWspo)
+- [Konstytucja Obecna VS Współczesna](index)
 - [Konstytucja 3 maja](kostytucja3maja)
 - [Konstytucja Amerykańska](konstytucjaAmerykanska)
 - [Konstytucja Francji](konstytucjaFrancuska)
