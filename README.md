@@ -2,6 +2,8 @@
 
 > Autorzy: Mateusz Kasprzak, Krzysztof Jurkowski, Michał Wójtowicz, Szymon Marynowski
 
+[![pages-build-deployment](https://github.com/MateuszKasprzak2tc/hitKonstytucja/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/MateuszKasprzak2tc/hitKonstytucja/actions/workflows/pages/pages-build-deployment)
+
 ## Podgląd
 
 Wszystkie zmiany dostępne są na [stronie projektu](https://MateuszKasprzak2tc.github.io/hitKonstytucja)
