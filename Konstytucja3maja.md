@@ -2,33 +2,23 @@
 title: Konstytucja 3 maja
 ---
 
-# Konstytucje {#title}
+# KONSTYTUCJA 3 MAJA - WARTOŚCI PONADCZASOWE {#title}
 
-<div id="subtitleL">03.05.1791</div><div id="subtitleR">Zamek Królewski - Warszawa</div>
+<div class="subtitle">
+	<div>03.05.1791</div>
+	<div>Zamek Królewski - Warszawa</div>
+</div>
+
+<nav>
+	<a href="/">Podobieństwa</a>
+	<a href="konstytucja3maja">3 maja</a>
+	<a href="konstytucjaAmerykanska">USA</a>
+	<a href="konstytucjaFrancuska">Francja</a>
+</nav>
 
 ---
 
-- [Konstytucja Obecna VS Współczesna](index)
-- [Konstytucja 3 maja](kostytucja3maja)
-- [Konstytucja Stanów Zjednoczonych](konstytucjaAmerykanska)
-- [Konstytucja Francji](konstytucjaFrancuska)
-
-<!-- <nav style="width: 100%;">
-	<table style="width: 100%;">
-		<tr>
-			<td id="link"><a style="font-family: 'Chomsky';" href="konstytucja3maja.html">Konstytucja Obecna VS Współczesna</a></td>
-			<td id="link"><a style="font-family: 'Chomsky';" href="konstytucja3maja.html">Konstytucja 3 maja</a></td>
-			<td id="link"><a style="font-family: 'Chomsky';" href="konstytucjaAmerykanska.html">Konstytucja Stanów Zjednoczonych</a></td>
-			<td id="link"><a style="font-family: 'Chomsky';" href="konstytucja3maja.html">Konstytucja Francji</a></td>
-		</tr>
-	</table>
-</nav> -->
-
-# KONSTYTUCJA 3 MAJA - WARTOŚCI PONADCZASOWE
-
-![Konstytucja](Konstytucja-3-maja.jpg)
-
-
+![Konstytucja](assets/img/Konstytucja-3-maja.jpg)
 Konstytucja 3 maja uchwalona 3 maja 1791 roku była drugą na świecie i pierwszą w Europie nowoczesną konstytucją. Wprowadzała ustrój monarchii konstytucyjnej, trójpodział władzy oraz zniosła liberum veto i wolną elekcję króla.
 
 ## Podstawowe Zasady Konstytucji 3 Maja:

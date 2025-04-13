@@ -2,21 +2,23 @@
 title: Konstytucja Obecna Kontra Współczesna
 ---
 
-# Konstytucje {#title}
+# PODOBIEŃSTWA KONSTYTUCJI 3 MAJA I OBECNEJ {#title}
 
-<div id="subtitleL">03.05.1791</div><div id="subtitleR">Zamek Królewski - Warszawa</div>
+<div class="subtitle">
+	<div>03.05.1791</div>
+	<div>Zamek Królewski - Warszawa</div>
+</div>
+
+<nav>
+	<a href="/">Podobieństwa</a>
+	<a href="konstytucja3maja">3 maja</a>
+	<a href="konstytucjaAmerykanska">USA</a>
+	<a href="konstytucjaFrancuska">Francja</a>
+</nav>
 
 ---
 
-- [Konstytucja Obecna VS Współczesna](index)
-- [Konstytucja 3 maja](kostytucja3maja)
-- [Konstytucja Amerykańska](konstytucjaAmerykanska)
-- [Konstytucja Francji](konstytucjaFrancuska)
-
-# PODOBIEŃSTWA KONSTYTUCJI 3 MAJA I OBECNEJ  
-
-![Konstytucja](wspolczesne-kontra-stare.png)
-
+![Konstytucja](assets/img/wspolczesne-kontra-stare.png)
 Konstytucja 3 maja, ustanowiona w 1791 roku, oraz konstytucja RP z 1997 roku mają ze sobą dużo wspólnego, pomimo ponad 200 lat pomiędzu ich uchwaleniem.
 
 ## Podobieństwa między konstytucjami:  

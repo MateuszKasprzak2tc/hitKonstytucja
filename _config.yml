@@ -1,5 +1,5 @@
 safe: true
-timezone: Europe/Warsaw
+timezone: "Europe/Warsaw"
 encoding: utf-8
 lsi: false
 incremental: false
@@ -12,3 +12,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 theme: jekyll-theme-merlot
+show_downloads: false
+title: Konstytucje
+description: "Autorzy: Mateusz&nbps;Kasprzak, Szymon&nbps;Marynowski, Michał&nbps;Wójtowicz, Krzysztof&nbps;Jurkowski"
