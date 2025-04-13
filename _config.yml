@@ -1,0 +1,13 @@
+safe: true
+timezone: Europe/Warsaw
+encoding: utf-8
+lsi: false
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  gfm_quirks: [paragraph_end]
+  gfm_emojis: true
+  math_engine: mathjax
+  syntax_highlighter: rouge
