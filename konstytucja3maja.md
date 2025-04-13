@@ -10,7 +10,7 @@ title: Konstytucja 3 maja
 </div>
 
 <nav>
-	<a href="/">Podobieństwa</a>
+	<a href=".">Podobieństwa</a>
 	<a href="konstytucja3maja">3 maja</a>
 	<a href="konstytucjaAmerykanska">USA</a>
 	<a href="konstytucjaFrancuska">Francja</a>
@@ -18,7 +18,7 @@ title: Konstytucja 3 maja
 
 ---
 
-![Konstytucja](assets/img/Konstytucja-3-maja.jpg)
+![Konstytucja](./assets/img/Konstytucja-3-maja.jpg)
 Konstytucja 3 maja uchwalona 3 maja 1791 roku była drugą na świecie i pierwszą w Europie nowoczesną konstytucją. Wprowadzała ustrój monarchii konstytucyjnej, trójpodział władzy oraz zniosła liberum veto i wolną elekcję króla.
 
 ## Podstawowe Zasady Konstytucji 3 Maja:

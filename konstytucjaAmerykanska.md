@@ -10,7 +10,7 @@ title: Konstytucja Stanów Zjednoczonych
 </div>
 
 <nav>
-	<a href="/">Podobieństwa</a>
+	<a href=".">Podobieństwa</a>
 	<a href="konstytucja3maja">3 maja</a>
 	<a href="konstytucjaAmerykanska">USA</a>
 	<a href="konstytucjaFrancuska">Francja</a>
@@ -18,7 +18,7 @@ title: Konstytucja Stanów Zjednoczonych
 
 ---
 
-![Konstytucja](assets/img/Konstytucja-usa.jpg)
+![Konstytucja](./assets/img/Konstytucja-usa.jpg)
 Konstytucja Stanów Zjednoczonych, uchwalona 17 września 1787 roku, jest pierwszą na świecie nowoczesną ustawą zasadniczą, która została spisana i oparta na ideałach oświecenia. Weszła w życie 4 marca 1789 roku, stając się podstawą ustroju politycznego i prawnego Stanów Zjednoczonych
 
 ## Ponadczasowe Wartości i Rozwiązania:

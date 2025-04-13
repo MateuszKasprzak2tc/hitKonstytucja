@@ -10,7 +10,7 @@ title: Konstytucja Obecna Kontra Współczesna
 </div>
 
 <nav>
-	<a href="/">Podobieństwa</a>
+	<a href=".">Podobieństwa</a>
 	<a href="konstytucja3maja">3 maja</a>
 	<a href="konstytucjaAmerykanska">USA</a>
 	<a href="konstytucjaFrancuska">Francja</a>
@@ -18,7 +18,7 @@ title: Konstytucja Obecna Kontra Współczesna
 
 ---
 
-![Konstytucja](assets/img/wspolczesne-kontra-stare.png)
+![Konstytucja](./assets/img/wspolczesne-kontra-stare.png)
 Konstytucja 3 maja, ustanowiona w 1791 roku, oraz konstytucja RP z 1997 roku mają ze sobą dużo wspólnego, pomimo ponad 200 lat pomiędzu ich uchwaleniem.
 
 ## Podobieństwa między konstytucjami:  
